@@ -1,6 +1,6 @@
 # 🎨🎨 UX-portfolio-archived
 This is the collection of my UX portfolio design and writing. I decided not to post it on my website due to the limited work I can show on the website.
-These are the lists of my portfolio:
+These are the lists of my portfolio (archived):
 - Collab Writing 
   Recruit more volunteers for a nonprofit organization that focused on social enterprise and social change.
   
